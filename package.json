@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "5.2.1",
-    "express-intlayer": "latest",
+    "express-intlayer": "canary",
     "intlayer": "latest"
   },
   "devDependencies": {
