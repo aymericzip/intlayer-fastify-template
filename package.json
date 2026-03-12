@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "express": "5.2.1",
-    "express-intlayer": "8.3.0-canary.4",
-    "intlayer": "8.3.0-canary.4"
+    "express-intlayer": "latest",
+    "intlayer": "latest"
   },
   "devDependencies": {
     "@types/express": "5.0.6",
